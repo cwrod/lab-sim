@@ -1,0 +1,7 @@
+[
+	{
+	"name": "EcoR1",
+	"type": "RestrictionEnzyme",
+	"description": "Cuts at GAATTC"
+	}
+]

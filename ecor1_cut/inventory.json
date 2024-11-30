@@ -1,0 +1,6 @@
+{
+	"cur_id":2,
+	"inventory":[
+		{"name":"custom DNA", "ID":1, "sequence":"ATTGGAATTCGGTTGAATTCTTGGAA", "type":"DNA"}
+	]
+}

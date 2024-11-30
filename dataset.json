@@ -1,0 +1,10 @@
+[
+	{
+		"input": "Order 15ul of the restriction enzyme",
+		"files": {"reagents.json": "order_test/reagents.json", "inventory.json": "order_test/inventory.json"}
+	},
+	{
+		"input": "Cut the provided DNA with EcoR1 enzyme",
+		"files": {"reagents.json": "ecor1_cut/reagents.json", "inventory.json": "ecor1_cut/inventory.json"}
+	}
+]
